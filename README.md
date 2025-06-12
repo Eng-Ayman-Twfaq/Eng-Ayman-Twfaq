@@ -1,27 +1,16 @@
 <!-- ملف README احترافي لصفحة GitHub الخاصة بك -->
 
-<!-- بطاقة ترحيب احترافية مع نص متحرك -->
-<div align="center" style="margin-bottom: 30px;">
+<div align="center">
   <a href="https://your-website.com" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=00FF00&background=00000000&center=true&vCenter=true&width=700&lines=💻+أيمن+توفيق;مهندس+برمجيات+متخصص;مطور+حلول+ذكية;خبير+تكنولوجيا+المعلومات" alt="نص متحرك">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+%D8%A3%D9%8A%D9%85%D9%86+%D8%AA%D9%88%D9%81%D9%8A%D9%82;%D9%85%D9%87%D9%86%D8%AF%D8%B3+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA+%D9%85%D8%AA%D8%AE%D8%B5%D8%B5;%D9%85%D8%B7%D9%88%D8%B1+%D8%AD%D9%84%D9%88%D9%84+%D8%B0%D9%83%D9%8A%D8%A9;%D8%AE%D8%A8%D9%8A%D8%B1+%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7+%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA" alt="نص متحرك" />
   </a>
 </div>
 
-<!-- المهارات بتأثير دوران خفيف باستخدام CSS animation -->
+
+<!-- عرض المهارات بشكل دائري -->
 <div align="center">
-  <div style="display: inline-block; animation: rotateSkills 20s linear infinite;">
-    <img src="https://skillicons.dev/icons?i=flutter,cs,arduino,py,php,laravel,mysql,git,github,firebase&theme=dark&perline=5" alt="مهاراتي التقنية">
-  </div>
+  <img src="https://skillicons.dev/icons?i=flutter,cs,arduino,py,php,laravel,mysql,git,github,firebase&theme=dark&perline=5" alt="مهاراتي التقنية" />
 </div>
-
-<!-- CSS لتحريك المهارات بشكل دائري بطيء -->
-<style>
-  @keyframes rotateSkills {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
-
 
 <!-- فاصل متحرك -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
@@ -143,7 +132,7 @@
       overflow: hidden;
       box-shadow: 0 5px 15px rgba(0,0,0,0.3);
     ">
-      <img src="8f5beec8-bbc7-43ee-80ee-09ba2815b07f.jfif" 
+      <img src="AYMAN.jpg" 
            alt="صورة أيمن توفيق" 
            style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
