@@ -44,7 +44,8 @@
 </p>
 
 ---
-
+<!-- فاصل زخرفي -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
 ## 💡 من أنا؟
 
 مرحبًا 👋  
@@ -60,7 +61,8 @@
 - ✅ ربط **واجهات التطبيقات بالـ APIs** بشكل احترافي
 
 ---
-
+<!-- فاصل زخرفي -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
 ## 🚀 مشاريع أعمل عليها
 
 - 🎤 **Ayman Voice Assistant** – مساعد صوتي باللغة العربية (Python + PyQt5)
@@ -69,7 +71,8 @@
 - 🤖 مشاريع Arduino ذكية: روبوتات، أنظمة استشعار، ذكاء صناعي مدمج
 
 ---
-
+<!-- فاصل زخرفي -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
 ## 🌍 تواصل معي
 
 <p align="center">
@@ -98,13 +101,15 @@
 ---
 
 ## 🖼️ شعار شخصي
-
+<!-- فاصل زخرفي -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
 <p align="center">
   <img src="WhatsApp Image 2025-05-15 at 17.06.11_1a75ae41.jpg" width="160" alt="Ayman Logo" />
 </p>
 
 ---
-
+<!-- فاصل زخرفي -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
 ## ⭐ أدعم أعمالي
 
 إذا أعجبتك مشاريعي، لا تنسَ:
@@ -149,20 +154,6 @@
            style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
     
-    <!-- المعلومات -->
-    <h3 style="margin: 10px 0 5px; text-align: center;">أيمن توفيق</h3>
-    <p style="text-align: center; margin-bottom: 15px; font-size: 14px;">مطور حلول تقنية متكاملة</p>
-    
-    <!-- روابط التواصل -->
-    <div style="display: flex; justify-content: center; gap: 10px;">
-      <a href="https://wa.me/967770883615" style="color: white;">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-      </a>
-      <a href="mailto:ayman.tawfaq.developers@gmail.com" style="color: white;">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-      </a>
-    </div>
-  </div>
 
   <p style="margin-top: 20px; font-size: 15px;">
     "التقنية لغة العصر.. فلنتحدث بها معًا"<br>
