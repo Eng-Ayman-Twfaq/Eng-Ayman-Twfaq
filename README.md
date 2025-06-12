@@ -2,7 +2,7 @@
 
 <!-- صورة غلاف -->
 <p align="center">
-  <img src="8f5beec8-bbc7-43ee-80ee-09ba2815b07f.jfif" width="180" height="180" style="border-radius: 50%; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);" alt="Ayman Profile Picture" />
+  <img src="811729ba-5eae-425d-8347-9e4ff58c1c50.png" width="180" height="180" style="border-radius: 50%; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);" alt="Ayman Profile Picture" />
 </p>
 
 
