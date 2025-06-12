@@ -2,7 +2,7 @@
 
 <!-- صورة غلاف -->
 <p align="center">
-  <img src="811729ba-5eae-425d-8347-9e4ff58c1c50.png" width="100%" alt="banner" />
+  <img src="811729ba-5eae-425d-8347-9e4ff58c1c50.png" width="50%" alt="banner" />
 </p>
 
 
