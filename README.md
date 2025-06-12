@@ -1,12 +1,31 @@
 <!-- ملف README احترافي لصفحة GitHub الخاصة بك -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=500&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%D8%A3%D9%8A%D9%85%D9%86+%D8%AA%D9%88%D9%81%D9%8A%D9%82;%D9%85%D8%B7%D9%88%D8%B1+%D8%AD%D9%84%D9%88%D9%84+%D8%AA%D9%82%D9%86%D9%8A%D8%A9;%D8%AE%D8%A8%D9%8A%D8%B1+%D8%A8%D8%B1%D9%85%D8%AC%D8%A9;%D9%85%D8%B7%D9%88%D8%B1+%D9%85%D8%AA%D8%B9%D8%AF%D8%AF+%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA" alt="نص متحرك" />
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+%D8%A3%D9%8A%D9%85%D9%86+%D8%AA%D9%88%D9%81%D9%8A%D9%82;%D9%85%D9%87%D9%86%D8%AF%D8%B3+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA+%D9%85%D8%AA%D8%AE%D8%B5%D8%B5;%D9%85%D8%B7%D9%88%D8%B1+%D8%AD%D9%84%D9%88%D9%84+%D8%B0%D9%83%D9%8A%D8%A9;%D8%AE%D8%A8%D9%8A%D8%B1+%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7+%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA" alt="نص متحرك" />
+  </a>
 </div>
 
+<!-- شارات تفاعلية -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AA8F7&width=435&lines=%D9%85%D8%A8%D8%B1%D9%85%D8%AC+%D9%85%D9%86+%D8%A7%D9%84%D9%8A%D9%85%D9%86;%D8%A3%D8%A8%D9%86%D9%8A+%D8%AD%D9%84%D9%88%D9%84%D8%A7%D9%8B+%D8%B0%D9%83%D9%8A%D8%A9;%D8%AD%D9%88%D9%84+%D8%A7%D9%84%D8%A3%D9%81%D9%83%D8%A7%D8%B1+%D8%A5%D9%84%D9%89+%D9%88%D8%A7%D9%82%D8%B9" alt="نص متحرك" />
+  <a href="https://your-website.com/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/معرض_الأعمال-00AA00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="معرض الأعمال" />
+  </a>
+  <a href="https://your-website.com/blog" target="_blank">
+    <img src="https://img.shields.io/badge/مدونتي_التقنية-0099FF?style=for-the-badge&logo=rss&logoColor=white" alt="مدونتي" />
+  </a>
+  <a href="https://your-website.com/contact" target="_blank">
+    <img src="https://img.shields.io/badge/تواصل_معي-FF6600?style=for-the-badge&logo=telegram&logoColor=white" alt="تواصل معي" />
+  </a>
 </div>
+
+<!-- عرض المهارات بشكل دائري -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,cs,arduino,py,php,laravel,mysql,git,github,firebase&theme=dark&perline=5" alt="مهاراتي التقنية" />
+</div>
+
+<!-- فاصل متحرك -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
 
 <h1 align="center">👨‍💻 Ayman Tawfaq</h1>
 
@@ -96,3 +115,65 @@
 
 > معًا نرتقي بالمحتوى العربي التقني 💪
 
+<!-- ... الأقسام السابقة تبقى كما هي ... -->
+
+## 📸 تواصل بصري
+
+<div align="center">
+  <h3>لنتعرف عن قرب!</h3>
+  
+  <!-- بطاقة شخصية مع الصورة -->
+  <div style="
+    width: 280px;
+    background: linear-gradient(135deg, #2b5876 0%, #4e4376 100%);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    color: white;
+    margin: 20px auto;
+    position: relative;
+    overflow: hidden;
+  ">
+    <!-- الصورة الشخصية -->
+    <div style="
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      border: 4px solid white;
+      margin: 0 auto 15px;
+      overflow: hidden;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    ">
+      <img src="8f5beec8-bbc7-43ee-80ee-09ba2815b07f.jfif" 
+           alt="صورة أيمن توفيق" 
+           style="width: 100%; height: 100%; object-fit: cover;" />
+    </div>
+    
+    <!-- المعلومات -->
+    <h3 style="margin: 10px 0 5px; text-align: center;">أيمن توفيق</h3>
+    <p style="text-align: center; margin-bottom: 15px; font-size: 14px;">مطور حلول تقنية متكاملة</p>
+    
+    <!-- روابط التواصل -->
+    <div style="display: flex; justify-content: center; gap: 10px;">
+      <a href="https://wa.me/967770883615" style="color: white;">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+      </a>
+      <a href="mailto:ayman.tawfaq.developers@gmail.com" style="color: white;">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+      </a>
+    </div>
+  </div>
+
+  <p style="margin-top: 20px; font-size: 15px;">
+    "التقنية لغة العصر.. فلنتحدث بها معًا"<br>
+    <a href="https://your-website.com/contact" style="color: #2AA8F7;">لحجز استشارة تقنية ←</a>
+  </p>
+</div>
+
+<!-- فاصل زخرفي -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
+
+<!-- عداد الزوار -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eng-Ayman-Twfaq&label=زوار+الملف&color=blueviolet&style=for-the-badge" alt="عداد الزوار" />
+</div>
