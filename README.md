@@ -2,12 +2,9 @@
 
 <!-- صورة غلاف -->
 <p align="center">
-  <img 
-    src="811729ba-5eae-425d-8347-9e4ff58c1c50.png" 
-    style="width: 400px; height: 200px; object-fit: cover;" 
-    alt="شعار مستطيل" 
-  />
+  <img src="811729ba-5eae-425d-8347-9e4ff58c1c50.png" width="60%" height="auto" style="border-radius: 8px;" alt="Ayman Logo Banner" />
 </p>
+
 
 
 <h1 align="center">👨‍💻 Ayman Tawfaq</h1>
