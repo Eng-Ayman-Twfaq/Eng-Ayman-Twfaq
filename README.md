@@ -2,8 +2,9 @@
 
 <!-- صورة غلاف -->
 <p align="center">
-  <img src="ChatGPT Image Jun 12, 2025, 12_20_56 PM.png" width="100%" alt="banner" />
+  <img src="_9ZE9502.JPG" width="180" height="180" style="border-radius: 50%; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);" alt="Ayman Profile Picture" />
 </p>
+
 
 <h1 align="center">👨‍💻 Ayman Tawfaq</h1>
 
