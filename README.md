@@ -1,28 +1,27 @@
 <!-- ملف README احترافي لصفحة GitHub الخاصة بك -->
 
-<div align="center">
+<!-- بطاقة ترحيب احترافية مع نص متحرك -->
+<div align="center" style="margin-bottom: 30px;">
   <a href="https://your-website.com" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+%D8%A3%D9%8A%D9%85%D9%86+%D8%AA%D9%88%D9%81%D9%8A%D9%82;%D9%85%D9%87%D9%86%D8%AF%D8%B3+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA+%D9%85%D8%AA%D8%AE%D8%B5%D8%B5;%D9%85%D8%B7%D9%88%D8%B1+%D8%AD%D9%84%D9%88%D9%84+%D8%B0%D9%83%D9%8A%D8%A9;%D8%AE%D8%A8%D9%8A%D8%B1+%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7+%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA" alt="نص متحرك" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=00FF00&background=00000000&center=true&vCenter=true&width=700&lines=💻+أيمن+توفيق;مهندس+برمجيات+متخصص;مطور+حلول+ذكية;خبير+تكنولوجيا+المعلومات" alt="نص متحرك">
   </a>
 </div>
 
-<!-- شارات تفاعلية -->
+<!-- المهارات بتأثير دوران خفيف باستخدام CSS animation -->
 <div align="center">
-  <a href="https://your-website.com/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/معرض_الأعمال-00AA00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="معرض الأعمال" />
-  </a>
-  <a href="https://your-website.com/blog" target="_blank">
-    <img src="https://img.shields.io/badge/مدونتي_التقنية-0099FF?style=for-the-badge&logo=rss&logoColor=white" alt="مدونتي" />
-  </a>
-  <a href="https://your-website.com/contact" target="_blank">
-    <img src="https://img.shields.io/badge/تواصل_معي-FF6600?style=for-the-badge&logo=telegram&logoColor=white" alt="تواصل معي" />
-  </a>
+  <div style="display: inline-block; animation: rotateSkills 20s linear infinite;">
+    <img src="https://skillicons.dev/icons?i=flutter,cs,arduino,py,php,laravel,mysql,git,github,firebase&theme=dark&perline=5" alt="مهاراتي التقنية">
+  </div>
 </div>
 
-<!-- عرض المهارات بشكل دائري -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,cs,arduino,py,php,laravel,mysql,git,github,firebase&theme=dark&perline=5" alt="مهاراتي التقنية" />
-</div>
+<!-- CSS لتحريك المهارات بشكل دائري بطيء -->
+<style>
+  @keyframes rotateSkills {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
+
 
 <!-- فاصل متحرك -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
@@ -44,8 +43,7 @@
 </p>
 
 ---
-<!-- فاصل زخرفي -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
+
 ## 💡 من أنا؟
 
 مرحبًا 👋  
@@ -61,8 +59,7 @@
 - ✅ ربط **واجهات التطبيقات بالـ APIs** بشكل احترافي
 
 ---
-<!-- فاصل زخرفي -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
+
 ## 🚀 مشاريع أعمل عليها
 
 - 🎤 **Ayman Voice Assistant** – مساعد صوتي باللغة العربية (Python + PyQt5)
@@ -71,8 +68,7 @@
 - 🤖 مشاريع Arduino ذكية: روبوتات، أنظمة استشعار، ذكاء صناعي مدمج
 
 ---
-<!-- فاصل زخرفي -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
+
 ## 🌍 تواصل معي
 
 <p align="center">
@@ -101,15 +97,13 @@
 ---
 
 ## 🖼️ شعار شخصي
-<!-- فاصل زخرفي -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
+
 <p align="center">
   <img src="WhatsApp Image 2025-05-15 at 17.06.11_1a75ae41.jpg" width="160" alt="Ayman Logo" />
 </p>
 
 ---
-<!-- فاصل زخرفي -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="فاصل" width="100%" height="8px"/>
+
 ## ⭐ أدعم أعمالي
 
 إذا أعجبتك مشاريعي، لا تنسَ:
