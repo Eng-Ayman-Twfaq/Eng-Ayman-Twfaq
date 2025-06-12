@@ -2,7 +2,7 @@
 
 <!-- صورة غلاف -->
 <p align="center">
-  <img src="811729ba-5eae-425d-8347-9e4ff58c1c50.png" width="180" height="180" style="border-radius: 50%; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);" alt="Ayman Profile Picture" />
+  <img src="811729ba-5eae-425d-8347-9e4ff58c1c50.png" width="100%" alt="banner" />
 </p>
 
 
